@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://Abhijitcoding97.github.io/Assignment.github.io/assets/img/Atext.png" width="3000" />
+<br />
+
+**I am a self-taught Full-stack web/mobile developer and UI/UX Designer**
+<br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
+<br/><br/>
