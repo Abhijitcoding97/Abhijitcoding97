@@ -32,10 +32,10 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
     </a>
     <a href="https://codepen.io/"> 
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
+    <img src="https://img.shields.io/badge/Codepen-00454630?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a>
 <a href="https://LinkedIn/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=codepen&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-098065?style=for-the-badge&logo=codepen&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 
 
